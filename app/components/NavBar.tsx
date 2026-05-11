@@ -10,10 +10,10 @@ export default function NavBar() {
                 <p>devEvent</p>
             </Link>
             <ul>
-            <Link href="/">home</Link>
-            <Link href="/">events</Link>
-            <Link href="/">create events</Link>
-        </ul>
+                <Link href="/">home</Link>
+                <Link href="/">events</Link>
+                <Link href="/">create events</Link>
+            </ul>
         </nav>
     </header>
   )
